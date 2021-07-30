@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Zach/Desktop/New folder/GDS399_ZachS_Lab6/Midterm/Content/test/Effects/Particle.fx</SourceFile>
+  <SourceTime>2020-06-19T18:22:32.5946758-04:00</SourceTime>
+  <DestFile>C:/Users/Zach/Desktop/New folder/GDS399_ZachS_Lab6/Midterm/Content/bin/Windows/test/Effects/Particle.xnb</DestFile>
+  <DestTime>2020-06-26T13:21:51.8058822-04:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

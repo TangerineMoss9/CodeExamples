@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Zach/Desktop/New folder/GDS399_ZachS_Lab6/Midterm/Content/test/Fonts/SplashScreenFontLarge.spritefont</SourceFile>
+  <SourceTime>2020-06-23T17:50:55.3109763-04:00</SourceTime>
+  <DestFile>C:/Users/Zach/Desktop/New folder/GDS399_ZachS_Lab6/Midterm/Content/bin/Windows/test/Fonts/SplashScreenFontLarge.xnb</DestFile>
+  <DestTime>2020-06-26T13:30:41.3810651-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
